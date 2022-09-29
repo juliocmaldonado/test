@@ -1,2 +1,6 @@
 Cold, Raining, first line, nepalx 
+
  B's conflit edit
+
+this is a conflict edit from A
+
